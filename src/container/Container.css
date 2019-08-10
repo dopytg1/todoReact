@@ -1,0 +1,127 @@
+
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.div__container {
+    float: right;
+    margin-top: 200px;
+    color: #fff;
+}
+
+.div__cont {
+    float: right;
+}
+
+.div__cont h1 {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.div__cont h3 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.inp__zone {
+    margin-top: -10px;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+.main__inp {
+    width: 600px;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+}
+
+.inp__btn {
+    position: absolute;
+    bottom: 0;
+    right: 10px;
+}
+
+.main {
+    margin: 0;
+    padding: 0;
+    /* position: relative; */
+}
+
+.main__menu {
+    background: #1e5c82;
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+/* TITLE */
+
+
+.to__do {
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    top: 600px;
+}
+
+.title__main {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.title__heading {
+    color: #2f3336;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.ToDoWindow {
+    width: 200px;
+    height: 60px;
+    background: #1e5c82;
+}
+
+.ToDo__list {
+    margin-top: 100px;
+    width: 300px;
+    background: #1e5c82;
+    margin: 30px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.ToDo__list button {
+    margin: 15px;
+    text-decoration: none;
+    height: 25px;
+    width: 70px;
+    border-radius: 5px;
+    border: none;
+    background: #fff;
+}
+
+.ToDo__list p {
+    position: relative;
+    top: -30px;
+    left: 20px;
+    font-size: 30px;
+    color: #fff;
+} 
+
+.Undo {
+    color: red;
+    text-decoration: line-through;
+    font-size: 30px;
+}
+
+.todo__undo {
+    color: red;
+}
